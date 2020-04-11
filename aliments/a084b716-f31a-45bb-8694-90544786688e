@@ -1,16 +1,16 @@
 {
-    "nameUuid": "a7a12c60-1604-48ee-9991-0e4baa08006d",
-    "uuid": "a7a12c60-1604-48ee-9991-0e4baa08006d",
+    "nameUuid": "c2092fb3-7bd7-4d3d-bf23-d001c1a23934",
+    "uuid": "a084b716-f31a-45bb-8694-90544786688e",
     "images": [
-        "e56f15a5-29f5-4ba7-8c9a-f750a31198ce"
+        "385c2310-314c-44eb-bf00-28b3a402b01b"
     ],
     "tags": [
-        "1f0ce536-a01d-4c7c-9412-d696920ea051"
+        "a3e5df68-4f5b-4601-9ac4-76743789c224"
     ],
     "states": {
-        "f33a0e6a-0ad6-4398-a803-3edd8e19987a": {
+        "c93bf939-0635-49c4-b764-784d096c368e": {
             "measures": {
-                "a4a3796e-e478-4864-86f7-bf5d17a603e1": 10
+                "43b13d11-0634-41bb-9f82-97f4bbaf1b01": 10
             },
             "nutrition": {
                 "energy": 10.0,

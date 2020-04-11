@@ -1,0 +1,12 @@
+{
+    "uuid": "c5bcd4ea-fe75-4d18-b46f-c64d88c70194",
+    "nbPeople": 2,
+    "timestamp": 10,
+    "description": "test"
+    "aliments": {
+        "a084b716-f31a-45bb-8694-90544786688e": 10
+     },
+    "receipes": [
+        "1385bc45-9b22-49ac-8791-467720f1b7f7"
+    ]
+}
