@@ -1,0 +1,10 @@
+{
+  "aliments": {
+    "eaa61552-e57c-49fa-a028-4ddc5b8d48c0": 100
+  },
+  "description": "Un repas de test",
+  "nbPeople": 2,
+  "receipes": ["eaa61552-e57c-49fa-a028-4ddc5b8d48c0"],
+  "timestamp": 1585322751,
+  "uuid": "eaa61552-e57c-49fa-a028-4ddc5b8d48c0"
+}
